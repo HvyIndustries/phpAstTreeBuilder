@@ -1,0 +1,27 @@
+{
+    "name": "treebuilder",
+    "version": "0.1.3",
+    "description": "Convert array output from php-parser into an object",
+    "main":"out/treeBuilder.js",
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/HvyIndustries/phpAstTreeBuilder"
+    },
+    "bugs": {
+        "url": "https://github.com/HvyIndustries/phpAstTreeBuilder/issues"
+    },
+    "keywords": [
+        "php",
+        "parser",
+        "ast"
+    ],
+    "author": "Hvy Industries",
+    "license": "MIT",
+    "devDependencies": {
+        "typescript": "^1.6.2"
+    },
+    "dependencies": {
+        "php-parser": "glayzzle/php-parser#3666b80"
+    }
+}
