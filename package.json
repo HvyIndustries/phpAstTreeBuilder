@@ -2,7 +2,7 @@
     "name": "treebuilder",
     "version": "0.1.3",
     "description": "Convert array output from php-parser into an object",
-    "main":"out/treeBuilder.js",
+    "main":"main.js",
     "private": true,
     "repository": {
         "type": "git",
